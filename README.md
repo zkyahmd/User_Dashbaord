@@ -1,4 +1,4 @@
-# 🧑‍💻 User Dashboard - MERN Stack App
+# 💻 User Dashboard - MERN Stack App
 
 A simple and clean user dashboard web application built using the MERN stack. Includes user authentication (Register/Login), dashboard view, and profile management.
 
